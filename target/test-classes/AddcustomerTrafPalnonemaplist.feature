@@ -1,8 +1,8 @@
-@tag
+@rgression
 Feature: Title of your feature
   I want to use this template for my feature file
 
-  @tag1
+  @blackbox
   Scenario: To check add tarif functionalities
     Given User view home page
     And user click Add tariff plan
